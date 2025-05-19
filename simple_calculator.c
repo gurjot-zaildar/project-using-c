@@ -78,7 +78,7 @@ void printf_menu() {
  printf("\n\n-------------------------------");
  printf("\nwelcome to simple calculator\n");
  printf("\n choose one of the following options :");
- printf("\n1. add"); \\for print add
+ printf("\n1. add");
  printf("\n2. subtract");
  printf("\n3. multiply");
  printf("\n4. divide");
